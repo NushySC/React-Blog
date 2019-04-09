@@ -7,6 +7,10 @@
     margin: 10px;
     box-sizing: border-box;
     cursor: pointer;
+    border-radius: 0.7em;
+    padding: 1em;
+    background-color: paleturquoise;
+    color: grey;
 }
 
 .Post:hover,
@@ -16,5 +20,5 @@
 
 .Author {
     margin: 16px 0;
-    color: #ccc;
+    color: darkgrey;
 }
